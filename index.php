@@ -16,7 +16,7 @@
             <label for="fileToUpload" class="form-label">Select file to upload:</label>
             <input type="file" name="fileToUpload" id="fileToUpload" class="form-control">
         </div>
-        <button type="submit" class="btn btn-primary" id="submitBtn">Upload File</button>
+        <input type="submit" class="btn btn-primary" id="submitBtn" value="Upload File"/>
     </form>
 </div>
 
